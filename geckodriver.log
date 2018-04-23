@@ -1,0 +1,416 @@
+1524486296874	geckodriver	INFO	geckodriver 0.18.0
+1524486296928	geckodriver	INFO	Listening on 127.0.0.1:45103
+1524486298586	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524486301731	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486301732	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486301733	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486301847	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486301849	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486301850	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486302501	Marionette	INFO	Enabled via --marionette
+1524486302789	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486302790	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486302793	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486302794	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486302802	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486302803	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486302967	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486302967	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486318627	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:278 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4406 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2270
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 137: TypeError: prefs is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524486322218	Marionette	INFO	Listening on port 37445
+1524486404089	geckodriver	INFO	geckodriver 0.18.0
+1524486404118	geckodriver	INFO	Listening on 127.0.0.1:43091
+1524486405667	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524486408398	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486408399	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486408400	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486408498	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486408499	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486408500	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486409254	Marionette	INFO	Enabled via --marionette
+1524486409507	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486409509	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486409513	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486409514	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486409522	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486409524	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486409702	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486409703	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486422589	Marionette	INFO	Listening on port 35683
+1524486423125	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5945, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524486626742	geckodriver	INFO	geckodriver 0.18.0
+1524486626772	geckodriver	INFO	Listening on 127.0.0.1:60923
+1524486628335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524486631007	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486631008	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486631010	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486728559	geckodriver	INFO	geckodriver 0.18.0
+1524486728588	geckodriver	INFO	Listening on 127.0.0.1:36673
+1524486730026	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524486732619	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486732621	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486732622	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486732724	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486732725	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486732726	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486733321	Marionette	INFO	Enabled via --marionette
+1524486733503	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486733505	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486733508	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486733509	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486733516	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486733518	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486733920	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524486733921	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524486747984	Marionette	INFO	Listening on port 43329
+1524486748398	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6191, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6147, Chrome_ChildThread] WARNING: pipe error (45): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6147, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524496842628	geckodriver	INFO	geckodriver 0.18.0
+1524496842683	geckodriver	INFO	Listening on 127.0.0.1:58003
+1524496844293	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524496846901	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496846902	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496846904	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496847027	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496847028	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496847029	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496847599	Marionette	INFO	Enabled via --marionette
+1524496847851	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496847852	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496847855	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496847856	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496847864	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496847866	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496848005	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524496848005	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524496860048	Marionette	INFO	Listening on port 41981
+1524496860601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524498123378	geckodriver	INFO	geckodriver 0.18.0
+1524498123408	geckodriver	INFO	Listening on 127.0.0.1:44037
+1524498125003	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524498127566	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498127568	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498127569	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498127672	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498127678	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498127681	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498128270	Marionette	INFO	Enabled via --marionette
+1524498128554	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498128558	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498128563	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498128565	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498128578	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498128579	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498128720	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498128721	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498140567	Marionette	INFO	Listening on port 45911
+1524498141372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524498640114	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498640142	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498640154	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498640155	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524498758643	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524498758651	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499666921	geckodriver	INFO	geckodriver 0.18.0
+1524499666960	geckodriver	INFO	Listening on 127.0.0.1:60899
+1524499668543	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524499671149	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499671151	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499671152	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499671409	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499671416	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499671418	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499672053	Marionette	INFO	Enabled via --marionette
+1524499672278	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499672282	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499672287	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499672289	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499672302	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499672304	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499672491	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499672496	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499684635	Marionette	INFO	Listening on port 41271
+1524499685439	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6948, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6948, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6948, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524499982080	geckodriver	INFO	geckodriver 0.18.0
+1524499982121	geckodriver	INFO	Listening on 127.0.0.1:55429
+1524499983666	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524499986461	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499986462	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499986463	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499986562	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499986563	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499986565	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499987172	Marionette	INFO	Enabled via --marionette
+1524499987370	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499987378	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499987382	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499987387	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499987403	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499987408	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499987578	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524499987578	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524499998084	Marionette	INFO	Listening on port 45377
+1524499998664	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7144, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7100, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7100, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7100, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524500080371	geckodriver	INFO	geckodriver 0.18.0
+1524500080402	geckodriver	INFO	Listening on 127.0.0.1:54887
+1524500082058	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500085029	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500085030	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500085032	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500085141	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500085142	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500085143	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500085760	Marionette	INFO	Enabled via --marionette
+1524500086028	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500086030	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500086033	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500086035	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500086049	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500086050	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500086199	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500086200	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500097959	Marionette	INFO	Listening on port 44021
+1524500098658	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524500224410	geckodriver	INFO	geckodriver 0.18.0
+1524500224442	geckodriver	INFO	Listening on 127.0.0.1:45753
+1524500226020	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500228629	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500228630	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500228631	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500228740	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500228741	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500228742	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500229471	Marionette	INFO	Enabled via --marionette
+1524500229680	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500229682	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500229685	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500229687	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500229695	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500229696	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500229831	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500229832	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500241116	Marionette	INFO	Listening on port 45081
+1524500241692	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524500461145	geckodriver	INFO	geckodriver 0.18.0
+1524500461175	geckodriver	INFO	Listening on 127.0.0.1:33215
+1524500462771	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500465710	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500465711	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500465713	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500465809	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500465810	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500465811	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500466421	Marionette	INFO	Enabled via --marionette
+1524500466600	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500466602	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500466605	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500466606	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500466618	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500466620	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500466813	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500466815	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500476948	Marionette	INFO	Listening on port 45627
+1524500477424	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7588, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7541, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7541, Chrome_ChildThread] WARNING: pipe error (35): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7541, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524500602544	geckodriver	INFO	geckodriver 0.18.0
+1524500602573	geckodriver	INFO	Listening on 127.0.0.1:40359
+1524500604187	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500607144	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500607145	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500607147	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500607245	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500607246	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500607247	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500607841	Marionette	INFO	Enabled via --marionette
+1524500608017	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500608019	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500608023	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500608024	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500608032	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500608033	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500608249	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500608253	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500620533	Marionette	INFO	Listening on port 41443
+1524500621033	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524500705313	geckodriver	INFO	geckodriver 0.18.0
+1524500705343	geckodriver	INFO	Listening on 127.0.0.1:51987
+1524500706938	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500709506	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500709508	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500709509	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500709606	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500709607	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500709608	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500710202	Marionette	INFO	Enabled via --marionette
+1524500710454	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500710457	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500710460	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500710461	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500710469	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500710470	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500710618	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500710619	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500723130	Marionette	INFO	Listening on port 38833
+1524500723546	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1524500854921	geckodriver	INFO	geckodriver 0.18.0
+1524500854953	geckodriver	INFO	Listening on 127.0.0.1:52525
+1524500856522	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1524500859472	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500859473	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500859474	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500859582	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500859582	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500859584	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500860180	Marionette	INFO	Enabled via --marionette
+1524500860361	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500860363	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500860366	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500860367	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500860375	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500860376	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500860542	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1524500860543	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1524500871875	Marionette	INFO	Listening on port 45205
+1524500872237	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
