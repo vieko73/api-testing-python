@@ -9,7 +9,7 @@ class TestApiMethods(unittest.TestCase):
     def test_getBTCUSDcurrentprice(self):
         driver = webdriver.Firefox(executable_path='./geckodriver')
         driver.get("https://www.bitfinex.com/")
-        expname = "BTCUS1D"
+        expname = "BTCUSD"
         # print (type(actname))
         try:
             actname = driver.find_element_by_xpath("//table[@id='fav-ticker-list-table']//td[text()='%s']" % expname)
