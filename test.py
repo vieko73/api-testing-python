@@ -17,21 +17,23 @@ class TestApiMethods(unittest.TestCase):
                     break
             if btcdic is None:
                 raise Exception("BTC is not found in response")
-            priceusd = btcdic['price_usd']
+            apiprice = round(float(btcdic['price_usd']), 2)
 
             driver.get("https://www.bitfinex.com/")
-            expprice = priceusd
             actprice = None
             try:
-                actprice = driver.find_element_by_xpath("//table[@id='fav-ticker-list-table']//td[text()='BTCUSD']/following-sibling::td[text()='%s']" % expprice)
+                actpriceelem = driver.find_element_by_xpath("//table[@id='fav-ticker-list-table']//td[text()='BTCUSD']/following-sibling::td")
+                actpricetext = actpriceelem.text.replace(",", "")
+                actprice = round(float(actpricetext), 2)
             except NoSuchElementException as e:
                 print("Exception was caught: %s" % e)
 
-            self.assertIsNotNone(actprice, "BTCUSD element was not found!")
+            print(apiprice, actprice)
+
+            self.assertEqual(apiprice, actprice, "Actual price doesn't match expected price")
         finally:
             driver.quit()
 
-# parse xpath string and then compare
 
 if __name__ == '__main__':
     unittest.main()
