@@ -60,6 +60,10 @@ class TestApiMethods(unittest.TestCase):
         r = requests.get('https://api.bitfinex.com/v1/symbols')
         self.assertEqual(r.status_code, HTTPStatus.OK)
 
+    def test_03post(self):
+        r = requests.post('https://api.bitfinex.com/v1/symbols')
+        self.assertEqual(r.status_code, HTTPStatus.NOT_FOUND)
+
 
 if __name__ == '__main__':
     unittest.main()
