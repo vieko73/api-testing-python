@@ -21,6 +21,7 @@ class TestCurrentPrice(unittest.TestCase):
             if btcdic is None:
                 raise Exception("BTC is not found in response")
             apiprice = round(float(btcdic['price_usd']), 1)
+
             driver.get("https://www.bitfinex.com/")
             actprice = None
             try:
@@ -30,8 +31,6 @@ class TestCurrentPrice(unittest.TestCase):
             except NoSuchElementException as e:
                 print("Exception was caught: %s" % e)
                 raise e
-
-            print(apiprice, actprice)
 
             self.assertEqual(apiprice, actprice, "Actual price doesn't match expected price")
         finally:

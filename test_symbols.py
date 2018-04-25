@@ -13,7 +13,7 @@ class TestApiMethods(unittest.TestCase):
         self.assertNotEqual(len(r.json()), 0)
         return r.json()
 
-    def test_01symbolsvalues(self):
+    def test_01symbolvalues(self):
         explist = ['btcusd', 'ltcusd', 'ltcbtc', 'ethusd', 'ethbtc', 'etcbtc', 'etcusd', 'rrtusd', 'rrtbtc', 'zecusd',
                    'zecbtc',
                    'xmrusd', 'xmrbtc', 'dshusd', 'dshbtc', 'btceur', 'btcjpy', 'xrpusd', 'xrpbtc', 'iotusd', 'iotbtc',
@@ -45,6 +45,7 @@ class TestApiMethods(unittest.TestCase):
         actlist = self.get_symbols()
 
         self.assertEqual(len(actlist), len(explist), "Values count doesn't match")
+        self.assertEqual(len(actlist), len(set(actlist)), "There are duplicates in list")
 
         for i in actlist:
             self.assertTrue(i in explist, "%s value is not in the list" % i)
@@ -62,6 +63,14 @@ class TestApiMethods(unittest.TestCase):
 
     def test_03post(self):
         r = requests.post('https://api.bitfinex.com/v1/symbols')
+        self.assertEqual(r.status_code, HTTPStatus.NOT_FOUND)
+
+    def test_04put(self):
+        r = requests.put('https://api.bitfinex.com/v1/symbols')
+        self.assertEqual(r.status_code, HTTPStatus.NOT_FOUND)
+
+    def test_05delete(self):
+        r = requests.delete('https://api.bitfinex.com/v1/symbols')
         self.assertEqual(r.status_code, HTTPStatus.NOT_FOUND)
 
 
